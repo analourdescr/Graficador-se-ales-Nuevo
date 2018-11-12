@@ -26,7 +26,7 @@ namespace GraficadorSeñales
         {
             double resultado;
             resultado = Math.Exp(Alpha * tiempo);
-            
+
             return resultado;
         }
     }

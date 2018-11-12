@@ -12,10 +12,10 @@ namespace GraficadorSeñales
         {
             Muestras = new List<Muestra>();
         }
+
         public override double evaluar(double tiempo)
         {
             return 0;
         }
-        
     }
 }
